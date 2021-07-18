@@ -1,0 +1,19 @@
+{
+  "name": "social-media-thing",
+  "version": "1.0.0",
+  "description": "Dev build ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GenericSocialMedia"
+  },
+  "author": "Mad Cat/Fission Feline/Furious Feline",
+  "license": "ISC",
+  "dependencies": {
+    "mongoclient": "^1.0.3",
+    "nodemon": "^2.0.12"
+  }
+}
